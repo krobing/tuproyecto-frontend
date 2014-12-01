@@ -1,0 +1,30 @@
+{
+  "name": "tuproyecto-frontend",
+  "version": "1.0.0",
+  "description": "aplicacion front-end de TuProyecto.co",
+  "bugs": {
+    "url": "https://github.com/krobing/tuproyecto-frontend/issues",
+    "email": "linkrobin1024@gmail.com"
+  },
+  "license": "Private",
+  "author": {
+    "name": "Robinson Perdomo",
+    "email": "linkrobin1024@gmail.com",
+    "url": "tuproyecto.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krobing/tuproyecto-frontend"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "matchdep": "^0.3.0"
+  }
+}
